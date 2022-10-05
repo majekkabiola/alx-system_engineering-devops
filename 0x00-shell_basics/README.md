@@ -1,1 +1,1 @@
-This is a folder for ALX shell basic tasks
+Display current directory contents, including hidden files
