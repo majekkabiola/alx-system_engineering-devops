@@ -1,4 +1,4 @@
 #!/bin/bash
-mkdir -p welcome/to/alx
+mkdir -p welcome/to/My_first_directiory
 
 
